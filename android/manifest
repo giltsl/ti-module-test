@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: ti-module-test
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: ti-module-test
+moduleid: com.giltsl
+guid: c80cce25-3e27-4d12-b36d-d7b5908083b1
+platform: android
+minsdk: 4.1.1.GA
